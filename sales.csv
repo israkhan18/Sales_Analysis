@@ -1,4 +1,4 @@
-date,product,sales,quantity,customer,
+date,product,sales,quantity,customer
 01-01-2024,Laptop,1,80000,Damon
 02-01-2024,Smartphone,2,40000,Elena
 03-01-2024,Washing Machine,1,30000,Stefan
