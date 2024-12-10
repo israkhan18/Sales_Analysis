@@ -2,13 +2,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-file_path = 'C:\\Users\\Isra\\OneDrive\\Documents\\ProjectIK\\sales_data.csv'
+file_path = 'C:\\your_path_here/sales.csv'
 
 data = pd.read_csv(file_path)
 
 print(data.head())
 
-file_path = r'C:\Users\Isra\OneDrive\Documents\ProjectIK\sales_data.csv'  # Update the path
+file_path = r'C:\your_path_here/sales_data.csv'  # Update the path
 data = pd.read_csv(file_path)
 
 data.columns = data.columns.str.strip()
