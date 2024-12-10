@@ -40,3 +40,8 @@ The most profitable category: Electronics
 The highest sales were recorded on 2024-01-01.
 Products with high sales volume: Microwave and Smartphone.
 Identified peak and low sales periods for better inventory management.
+
+Contact:
+Developer: Isra Khan
+Email: khanisra1822@gmail.com
+Feel free to connect for any feedback or collaboration opportunities!
